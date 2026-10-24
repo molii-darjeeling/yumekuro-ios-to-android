@@ -1,0 +1,15 @@
+{
+  "game": "Yumekuro / Yume Shokunin to Wasureji no Kuroi Yousei",
+  "original_package": "com.gcrest.yumekuro",
+  "version_name": "5.0.1",
+  "version_code": 551,
+  "abi": "arm64-v8a",
+  "unity_fallback_version": "2021.3.54f1",
+  "production_octo_namespace": 11,
+  "scope": "Native addresses and IL2CPP layouts in runtime/ are restricted to this exact libil2cpp build. Repacked APKs with different ZIP hashes also fail closed until reviewed.",
+  "sha256": {
+    "android-original/base.apk": "eb7d4916c8ca0b24aacb24b4c94e48a3087219ef6ac3a9c3308ef977b5ddc2c1",
+    "android-original/split_config.arm64_v8a.apk": "4cf10cb0dc315da50216c0026b783f614e4d791a3edb3fa9ea7dfd6ce728bcec",
+    "resource-analysis/libil2cpp.so": "a885b009289659e12f76f02da351fbffba188cb510a9f52b21c5a12508c0c0de"
+  }
+}

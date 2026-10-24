@@ -1,0 +1,13 @@
+{
+  "work_dir": "D:/YumekuroMigration/work",
+  "adb": "D:/Android/platform-tools/adb.exe",
+  "adb_port": 5037,
+  "android_serial": "CHOOSE_YOUR_DEVICE",
+  "android_user": 0,
+  "package": "com.yumekuro.local",
+  "java": "D:/Java/bin/java.exe",
+  "build_tools": "D:/Android/sdk/build-tools/36.0.0",
+  "ios_ssh_host": "127.0.0.1",
+  "ios_ssh_port": 2222,
+  "ios_ssh_user": "mobile"
+}

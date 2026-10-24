@@ -1,0 +1,5 @@
+--- a/app/src/main/java/com/gplaydl/authenticator/auth/GoogleLoginActivity.kt
++++ b/app/src/main/java/com/gplaydl/authenticator/auth/GoogleLoginActivity.kt
+@@ -60 +60 @@
+-                val cookies = CookieManager.getInstance().getCookie(url)
++                val cookies = CookieManager.getInstance().getCookie(url) ?: return

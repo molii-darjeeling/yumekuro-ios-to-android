@@ -1,0 +1,2 @@
+# Optional: separate authorization checkpoint required; see docs/GOOGLE_PLAY.md.
+gplaydl==4.2.1

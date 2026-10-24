@@ -1,0 +1,6 @@
+# Versions used by the recovered native workflow; install only after the user agrees.
+UnityPy==1.25.4
+lief==1.0.0
+cryptography==50.0.2
+paramiko==5.1.0
+httpx==0.28.1
